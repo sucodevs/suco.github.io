@@ -4,6 +4,12 @@
 # Contributors code of conduct.
 <ul>
   <li> Do not commit directly to the master branch. </li>
-  <li> Maintain color theory (<a href="https://webdesign.tutsplus.com/articles/an-introduction-to-color-theory-for-web-designers--webdesign-1437">Refer</a>)  
+  <li> Cross check in your local repository before pushing it to origin </li>
+  <li> Do not create seperate branches, Always use feature branches. </li>
+  <li> Commit directly into the master only if you need to fix something real quick (eg - bug, minor color change).
+ 
+# CSS
+
+<th> Color rules </th>
 
   
