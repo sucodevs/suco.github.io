@@ -9,8 +9,8 @@
   <li> Commit directly into the master only if you need to fix something real quick (eg - bug, minor color change).</li>
   <li> Avoid changing bootstrap components.</li>
  </ul>
+ 
 # CSS
-
 <h3>Colors</h3>
 <ul>
 <li>Do not insert background image or any color to the body of the website</li>
