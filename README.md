@@ -8,16 +8,13 @@
   <li> Do not create seperate branches, Always use feature branches. </li>
   <li> Commit directly into the master only if you need to fix something real quick (eg - bug, minor color change).</li>
   <li> Avoid changing bootstrap components.</li>
- </ul>
- 
-# CSS
-<ul>
+
 <li>Do not insert background image or any color to the body of the website</li>
 <li>Try to Use same colors in all pages for headers,Paragraphs,lists, backgrounds ( footer,navbar), hover etc. </li>
-<li> Try to avoid random mixing of colors and decide with the team about which color scheme to use (refer-<a href="color.adobe.com">adobe colors</a>) </li>.
+<li> Try to avoid random mixing of colors and decide with the team about which color scheme to use (refer-<a href="color.adobe.com">adobe colors</a>)</li>
 <li> Use modern fonts which are of good quality.
 <li> try to Use same font in all pages for headers,Paragraphs,lists.</li>
-<li> See which font fits perfectly for your website, Here are some of the popular ones.<a href="http://www.creativebloq.com/typography/10-best-google-fonts-print-web-and-mobile-11135171>Essential list</a></li>
+<li> See which font fits perfectly for your website</li>
 <li> Use same body layouts in all the pages.</li>
 <li> Decide about margin,padding and container size with the team and stick to that rule. </li>
 <li>use "nbsp;" only when there is no other option.</li>
